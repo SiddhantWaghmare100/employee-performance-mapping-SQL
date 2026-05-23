@@ -1,4 +1,3 @@
-# employee-performance-mapping-SQL
 # Employee Performance Mapping using SQL
 
 ## Project Overview
